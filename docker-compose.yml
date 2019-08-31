@@ -1,0 +1,6 @@
+version: '2.1'
+
+services:
+  docker_flutter_master:
+    image: hpoul/docker_flutter_master
+    build: .
